@@ -1,0 +1,7 @@
+pygame-ce
+pytest
+pytest-mock
+pytest-html
+coverage
+ruff
+mypy
